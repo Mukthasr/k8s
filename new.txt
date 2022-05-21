@@ -1,0 +1,18 @@
+
+
+Java based project:
+
+
+developer -- git -- github --- jenkins build code using maven and generate the jar file=====
+
+
+
+
+
+
+
+Python ----
+
+
+dev--- git -- github - jenkins -- docker image
+==========================================
